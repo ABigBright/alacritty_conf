@@ -4,15 +4,15 @@
 size = 11
 
 [font.bold]
-family = "FiraMono Nerd Font Mono"
+family = "monospace"
 style = "Bold"
 
 [font.italic]
-family = "FiraMono Nerd Font Mono"
+family = "monospace"
 style = "Italic"
 
 [font.normal]
-family = "FiraMono Nerd Font Mono"
+family = "monospace"
 style = "Regular"
 
 [font.offset]
